@@ -1,0 +1,47 @@
+{
+    "actors": [
+        {
+            "active": true,
+            "components": [
+                {
+                    "active": true,
+                    "data": {
+                        "position": [
+                            -3.55629301071167,
+                            0.8698385953903198,
+                            -11.650816917419434
+                        ],
+                        "rotation": [
+                            0.70710688829422,
+                            0.0,
+                            0.7071066498756409,
+                            0.0
+                        ],
+                        "scale": [
+                            1.7499276399612427,
+                            1.75,
+                            1.7499276399612427
+                        ]
+                    },
+                    "type": "Transform"
+                },
+                {
+                    "active": true,
+                    "data": {
+                        "model": "Assets\\Models\\Hawk\\scene.gltf"
+                    },
+                    "type": "Mesh Component"
+                },
+                {
+                    "active": true,
+                    "data": {},
+                    "type": "Hawk"
+                }
+            ],
+            "id": "6038829354361520327",
+            "name": "Hawk",
+            "parentId": null
+        }
+    ],
+    "version": 1
+}

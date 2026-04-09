@@ -1,0 +1,47 @@
+{
+    "actors": [
+        {
+            "active": true,
+            "components": [
+                {
+                    "active": true,
+                    "data": {
+                        "position": [
+                            -0.7479273080825806,
+                            1.1987531185150146,
+                            -9.99441909790039
+                        ],
+                        "rotation": [
+                            0.7041386365890503,
+                            -6.182493450523907e-08,
+                            -0.7100625038146973,
+                            -6.182493450523907e-08
+                        ],
+                        "scale": [
+                            1.1798665523529053,
+                            1.1799999475479126,
+                            1.1798665523529053
+                        ]
+                    },
+                    "type": "Transform"
+                },
+                {
+                    "active": true,
+                    "data": {
+                        "model": "Assets\\Models\\Diane\\scene.gltf"
+                    },
+                    "type": "Mesh Component"
+                },
+                {
+                    "active": true,
+                    "data": {},
+                    "type": "Diane"
+                }
+            ],
+            "id": "5474719001859096325",
+            "name": "Diane",
+            "parentId": null
+        }
+    ],
+    "version": 1
+}

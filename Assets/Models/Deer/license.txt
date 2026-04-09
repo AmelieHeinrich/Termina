@@ -1,0 +1,8 @@
+Model Information:
+* title:	Deer statue stylized
+* source:	https://sketchfab.com/3d-models/deer-statue-stylized-9c1ac0a4f7ac46a0ac3e26f8a55c0b11
+* author:	M Parkinson (https://sketchfab.com/chimaera_studio)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works

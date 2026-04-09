@@ -1,0 +1,16 @@
+{
+  "albedo_texture": "Assets\\Models\\Kelpie\\textures\\Scene_-_Root_baseColor.png",
+  "alpha_test": false,
+  "color": [
+    1.0,
+    1.0,
+    1.0
+  ],
+  "emissive_texture": "",
+  "metallic_factor": 1.0,
+  "normal_texture": "Assets\\Models\\Kelpie\\textures\\Scene_-_Root_normal.png",
+  "orm_texture": "Assets\\Models\\Kelpie\\textures\\Scene_-_Root_metallicRoughness.png",
+  "override_metallic": false,
+  "override_roughness": false,
+  "roughness_factor": 1.0
+}

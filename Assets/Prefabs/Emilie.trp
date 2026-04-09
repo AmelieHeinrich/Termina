@@ -1,0 +1,47 @@
+{
+    "actors": [
+        {
+            "active": true,
+            "components": [
+                {
+                    "active": true,
+                    "data": {
+                        "position": [
+                            -1.2934314012527466,
+                            1.0360913276672363,
+                            -12.543622016906738
+                        ],
+                        "rotation": [
+                            1.9106897003294413e-15,
+                            -4.3711427366588396e-08,
+                            1.0,
+                            -4.3711427366588396e-08
+                        ],
+                        "scale": [
+                            2.0249998569488525,
+                            2.0249998569488525,
+                            2.0249998569488525
+                        ]
+                    },
+                    "type": "Transform"
+                },
+                {
+                    "active": true,
+                    "data": {
+                        "model": "Assets\\Models\\Emilie\\scene.gltf"
+                    },
+                    "type": "Mesh Component"
+                },
+                {
+                    "active": true,
+                    "data": {},
+                    "type": "Emilie"
+                }
+            ],
+            "id": "4326358013356855623",
+            "name": "Emilie",
+            "parentId": null
+        }
+    ],
+    "version": 1
+}

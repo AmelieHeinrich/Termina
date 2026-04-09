@@ -1,0 +1,16 @@
+{
+  "albedo_texture": "Assets\\Models\\Gargoyle\\textures\\lambert1_baseColor.png",
+  "alpha_test": false,
+  "color": [
+    1.0,
+    1.0,
+    1.0
+  ],
+  "emissive_texture": "",
+  "metallic_factor": 1.0,
+  "normal_texture": "Assets\\Models\\Gargoyle\\textures\\lambert1_normal.png",
+  "orm_texture": "Assets\\Models\\Gargoyle\\textures\\lambert1_metallicRoughness.png",
+  "override_metallic": false,
+  "override_roughness": false,
+  "roughness_factor": 0.21917808055877686
+}

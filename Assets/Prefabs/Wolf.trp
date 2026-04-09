@@ -1,0 +1,47 @@
+{
+    "actors": [
+        {
+            "active": true,
+            "components": [
+                {
+                    "active": true,
+                    "data": {
+                        "position": [
+                            -7.072641372680664,
+                            0.744372546672821,
+                            -16.219633102416992
+                        ],
+                        "rotation": [
+                            0.70710688829422,
+                            0.0,
+                            0.7071066498756409,
+                            0.0
+                        ],
+                        "scale": [
+                            1.2798889875411987,
+                            1.279999852180481,
+                            1.2798889875411987
+                        ]
+                    },
+                    "type": "Transform"
+                },
+                {
+                    "active": true,
+                    "data": {
+                        "model": "Assets\\Models\\Wolf\\scene.gltf"
+                    },
+                    "type": "Mesh Component"
+                },
+                {
+                    "active": true,
+                    "data": {},
+                    "type": "Wolf"
+                }
+            ],
+            "id": "13740756326291409252",
+            "name": "Wolf",
+            "parentId": null
+        }
+    ],
+    "version": 1
+}

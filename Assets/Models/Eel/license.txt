@@ -1,0 +1,8 @@
+Model Information:
+* title:	Wolf Eel
+* source:	https://sketchfab.com/3d-models/wolf-eel-30c2ba254dac454c9a724d7014748028
+* author:	splasq (https://sketchfab.com/splasq)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works

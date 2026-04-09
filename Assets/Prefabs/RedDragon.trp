@@ -1,0 +1,47 @@
+{
+    "actors": [
+        {
+            "active": true,
+            "components": [
+                {
+                    "active": true,
+                    "data": {
+                        "position": [
+                            0.0,
+                            5.494865417480469,
+                            -17.270231246948242
+                        ],
+                        "rotation": [
+                            0.70710688829422,
+                            0.0,
+                            0.7071066498756409,
+                            0.0
+                        ],
+                        "scale": [
+                            0.7499500513076782,
+                            0.75,
+                            0.7499500513076782
+                        ]
+                    },
+                    "type": "Transform"
+                },
+                {
+                    "active": true,
+                    "data": {},
+                    "type": "RedDragon"
+                },
+                {
+                    "active": true,
+                    "data": {
+                        "model": "Assets\\Models\\Dragon\\scene.gltf"
+                    },
+                    "type": "Mesh Component"
+                }
+            ],
+            "id": "14470506620508957006",
+            "name": "RedDragon",
+            "parentId": null
+        }
+    ],
+    "version": 1
+}

@@ -1,0 +1,8 @@
+Model Information:
+* title:	Stylized Ghost
+* source:	https://sketchfab.com/3d-models/stylized-ghost-12b711d0fa034c689c8751bce6266df4
+* author:	EverZax (https://sketchfab.com/EverZax)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works

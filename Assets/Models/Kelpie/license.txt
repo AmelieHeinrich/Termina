@@ -1,0 +1,8 @@
+Model Information:
+* title:	A Somehow Strange Seahorse
+* source:	https://sketchfab.com/3d-models/a-somehow-strange-seahorse-033df1aad8ae41488a404e07bf3a8aec
+* author:	a-python-script (https://sketchfab.com/a-python-script)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works

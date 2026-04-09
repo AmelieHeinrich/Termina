@@ -1,0 +1,47 @@
+{
+    "actors": [
+        {
+            "active": true,
+            "components": [
+                {
+                    "active": true,
+                    "data": {
+                        "position": [
+                            -3.0909788608551025,
+                            0.0,
+                            -16.35524559020996
+                        ],
+                        "rotation": [
+                            1.0,
+                            0.0,
+                            0.0,
+                            0.0
+                        ],
+                        "scale": [
+                            3.5,
+                            3.5,
+                            3.5
+                        ]
+                    },
+                    "type": "Transform"
+                },
+                {
+                    "active": true,
+                    "data": {},
+                    "type": "Kelpie"
+                },
+                {
+                    "active": true,
+                    "data": {
+                        "model": "Assets\\Models\\Kelpie\\scene.gltf"
+                    },
+                    "type": "Mesh Component"
+                }
+            ],
+            "id": "9166591373863174431",
+            "name": "Kelpie",
+            "parentId": null
+        }
+    ],
+    "version": 1
+}

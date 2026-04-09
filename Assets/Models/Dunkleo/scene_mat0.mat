@@ -1,0 +1,16 @@
+{
+  "albedo_texture": "Assets\\Models\\Dunkleo\\textures\\tripo_mat_62d4304d-795c-4b85-bb2a-7365ad255ee2_baseColor.jpeg",
+  "alpha_test": false,
+  "color": [
+    1.0,
+    1.0,
+    1.0
+  ],
+  "emissive_texture": "",
+  "metallic_factor": 1.0,
+  "normal_texture": "",
+  "orm_texture": "Assets\\Models\\Dunkleo\\textures\\tripo_mat_62d4304d-795c-4b85-bb2a-7365ad255ee2_metallicRoughness.png",
+  "override_metallic": false,
+  "override_roughness": false,
+  "roughness_factor": 0.6000000238418579
+}

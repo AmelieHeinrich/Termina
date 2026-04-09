@@ -1,0 +1,8 @@
+Model Information:
+* title:	Skeleton - LowPoly Character
+* source:	https://sketchfab.com/3d-models/skeleton-lowpoly-character-89637ea0e71942ca91faed5939bd619d
+* author:	SereDim (https://sketchfab.com/SereDim)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works

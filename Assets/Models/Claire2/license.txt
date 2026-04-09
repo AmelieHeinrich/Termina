@@ -1,0 +1,8 @@
+Model Information:
+* title:	3D Print Lady of the Twilight Veil
+* source:	https://sketchfab.com/3d-models/3d-print-lady-of-the-twilight-veil-28f948b58537432480a3ad401ededb06
+* author:	Triative (https://sketchfab.com/Triativestudio)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works

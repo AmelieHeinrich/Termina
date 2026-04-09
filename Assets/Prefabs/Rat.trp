@@ -1,0 +1,47 @@
+{
+    "actors": [
+        {
+            "active": true,
+            "components": [
+                {
+                    "active": true,
+                    "data": {
+                        "position": [
+                            -7.441273212432861,
+                            0.041176438331604004,
+                            -14.192009925842285
+                        ],
+                        "rotation": [
+                            1.0,
+                            0.0,
+                            0.0,
+                            0.0
+                        ],
+                        "scale": [
+                            0.3482320308685303,
+                            0.3482320308685303,
+                            0.3482320308685303
+                        ]
+                    },
+                    "type": "Transform"
+                },
+                {
+                    "active": true,
+                    "data": {
+                        "model": "Assets\\Models\\Rat\\scene.gltf"
+                    },
+                    "type": "Mesh Component"
+                },
+                {
+                    "active": true,
+                    "data": {},
+                    "type": "Rat"
+                }
+            ],
+            "id": "15494052036633172018",
+            "name": "Rat",
+            "parentId": null
+        }
+    ],
+    "version": 1
+}

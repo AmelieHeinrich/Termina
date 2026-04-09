@@ -1,0 +1,16 @@
+{
+  "albedo_texture": "Assets\\Models\\Wolf\\textures\\Material_0_baseColor.jpeg",
+  "alpha_test": false,
+  "color": [
+    1.0,
+    1.0,
+    1.0
+  ],
+  "emissive_texture": "",
+  "metallic_factor": 0.0,
+  "normal_texture": "",
+  "orm_texture": "",
+  "override_metallic": false,
+  "override_roughness": false,
+  "roughness_factor": 0.8868629336357117
+}

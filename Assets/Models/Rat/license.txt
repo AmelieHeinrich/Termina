@@ -1,0 +1,8 @@
+Model Information:
+* title:	Low-poly rat
+* source:	https://sketchfab.com/3d-models/low-poly-rat-0ff3d1281fc741a68ac6e16cc681e153
+* author:	flogram (https://sketchfab.com/flogram)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works

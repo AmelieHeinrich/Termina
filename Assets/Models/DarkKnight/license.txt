@@ -1,0 +1,8 @@
+Model Information:
+* title:	Dark Knight Warrior
+* source:	https://sketchfab.com/3d-models/dark-knight-warrior-39d5404bb86d45f984c969018acb5d97
+* author:	ameafza (https://sketchfab.com/ameafza)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works

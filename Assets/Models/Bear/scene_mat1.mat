@@ -1,0 +1,16 @@
+{
+  "albedo_texture": "Assets\\Models\\Bear\\textures\\gjoliatbelanger-m-20161102135650_baseColor.png",
+  "alpha_test": false,
+  "color": [
+    1.0,
+    1.0,
+    1.0
+  ],
+  "emissive_texture": "",
+  "metallic_factor": 0.0,
+  "normal_texture": "Assets\\Models\\Bear\\textures\\gjoliatbelanger-m-20161102135650_normal.png",
+  "orm_texture": "Assets\\Models\\Bear\\textures\\gjoliatbelanger-m-20161102135650_metallicRoughness.png",
+  "override_metallic": false,
+  "override_roughness": false,
+  "roughness_factor": 0.36593568325042725
+}

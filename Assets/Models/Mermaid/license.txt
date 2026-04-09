@@ -1,0 +1,8 @@
+Model Information:
+* title:	Sirène - Louvre
+* source:	https://sketchfab.com/3d-models/sirene-louvre-8b8bbc475a854515b0652e36f2f93668
+* author:	Filipe Vilas-Boas (https://sketchfab.com/filipevb)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works

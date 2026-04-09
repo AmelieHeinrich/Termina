@@ -1,0 +1,8 @@
+Model Information:
+* title:	Aelin Galathynius
+* source:	https://sketchfab.com/3d-models/aelin-galathynius-aeb0e96c168345738203de9d38d34fe1
+* author:	BlisteryLeopard (https://sketchfab.com/BlisteryLeopard)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works

@@ -1,0 +1,16 @@
+{
+  "albedo_texture": "Assets\\Models\\Knight_Two\\textures\\tripo_material_3d4d0331-dbd0-41bf-9e23-6b9a09a9ed28_baseColor.jpeg",
+  "alpha_test": false,
+  "color": [
+    1.0,
+    1.0,
+    1.0
+  ],
+  "emissive_texture": "",
+  "metallic_factor": 1.0,
+  "normal_texture": "Assets\\Models\\Knight_Two\\textures\\tripo_material_3d4d0331-dbd0-41bf-9e23-6b9a09a9ed28_normal.jpeg",
+  "orm_texture": "Assets\\Models\\Knight_Two\\textures\\tripo_material_3d4d0331-dbd0-41bf-9e23-6b9a09a9ed28_metallicRoughness.png",
+  "override_metallic": false,
+  "override_roughness": false,
+  "roughness_factor": 1.0
+}

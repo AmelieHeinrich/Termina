@@ -1,0 +1,8 @@
+Model Information:
+* title:	Dragon (decimated sculpt)
+* source:	https://sketchfab.com/3d-models/dragon-decimated-sculpt-8d6c9e00b6234ae48a9ba8373d1a8b8f
+* author:	Ashraf Bouhadida (https://sketchfab.com/frostashes)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works

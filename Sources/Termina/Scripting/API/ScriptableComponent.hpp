@@ -45,7 +45,9 @@ namespace TerminaScript {
 
         Termina::UpdateFlags GetUpdateFlags() const override { return (Termina::UpdateFlags)0; }
 
+        std::string SetName(std::string newName){ m_Name = newName; }
     private:
+        friend class Termina::Actor;
         void OnInit()                override;
         void OnPlay()                override { Start(); }
         void OnStop()                override { Stop(); }

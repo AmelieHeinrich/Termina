@@ -1,0 +1,8 @@
+Model Information:
+* title:	Ancient Knight
+* source:	https://sketchfab.com/3d-models/ancient-knight-b20c7419138d48d69b280ef38846ee8f
+* author:	illustros (https://sketchfab.com/illustros)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Sorcerer Posed
+* source:	https://sketchfab.com/3d-models/sorcerer-posed-e555c518d7704c3ba3a929162fe7aec0
+* author:	2iemniak (https://sketchfab.com/2iemniak)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Sorcerer Posed" (https://sketchfab.com/3d-models/sorcerer-posed-e555c518d7704c3ba3a929162fe7aec0) by 2iemniak (https://sketchfab.com/2iemniak) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

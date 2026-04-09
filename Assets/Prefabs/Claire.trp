@@ -1,0 +1,48 @@
+{
+    "actors": [
+        {
+            "active": true,
+            "components": [
+                {
+                    "active": true,
+                    "data": {
+                        "position": [
+                            3.737581729888916,
+                            0.011713147163391113,
+                            -9.723749160766602
+                        ],
+                        "rotation": [
+                            0.7071067690849304,
+                            0.0,
+                            -0.7071067690849304,
+                            0.0
+                        ],
+                        "scale": [
+                            1.0,
+                            1.0,
+                            1.0
+                        ]
+                    },
+                    "type": "Transform"
+                },
+                {
+                    "active": true,
+                    "data": {
+                        "material_overrides": {},
+                        "model": "Assets\\Models\\Claire2\\scene.gltf"
+                    },
+                    "type": "Mesh Component"
+                },
+                {
+                    "active": true,
+                    "data": {},
+                    "type": "Claire"
+                }
+            ],
+            "id": "14006458963740423985",
+            "name": "Claire",
+            "parentId": null
+        }
+    ],
+    "version": 1
+}

@@ -1,0 +1,8 @@
+Model Information:
+* title:	Terrible Cyan fish
+* source:	https://sketchfab.com/3d-models/terrible-cyan-fish-62c32436ab8e4847b39a4cf04294dcc4
+* author:	r.e.h.c (https://sketchfab.com/by.r.e.h.c)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works

@@ -1,0 +1,47 @@
+{
+    "actors": [
+        {
+            "active": true,
+            "components": [
+                {
+                    "active": true,
+                    "data": {
+                        "position": [
+                            0.0,
+                            1.8044549226760864,
+                            -14.397490501403809
+                        ],
+                        "rotation": [
+                            0.70710688829422,
+                            0.0,
+                            0.7071066498756409,
+                            0.0
+                        ],
+                        "scale": [
+                            0.9999606609344482,
+                            1.0,
+                            0.9999606609344482
+                        ]
+                    },
+                    "type": "Transform"
+                },
+                {
+                    "active": true,
+                    "data": {
+                        "model": "Assets\\Models\\Gargoyle\\scene.gltf"
+                    },
+                    "type": "Mesh Component"
+                },
+                {
+                    "active": true,
+                    "data": {},
+                    "type": "Gargoyle"
+                }
+            ],
+            "id": "5869731154787850076",
+            "name": "Gargoyle",
+            "parentId": null
+        }
+    ],
+    "version": 1
+}

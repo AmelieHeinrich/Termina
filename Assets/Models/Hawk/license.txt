@@ -1,0 +1,8 @@
+Model Information:
+* title:	Eagle
+* source:	https://sketchfab.com/3d-models/eagle-9403129b2f7c44d99dd05057c7edc5ed
+* author:	Alexandr (https://sketchfab.com/aka0xnull)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works

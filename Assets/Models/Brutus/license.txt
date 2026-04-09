@@ -1,0 +1,8 @@
+Model Information:
+* title:	Elven Archer in the Forest
+* source:	https://sketchfab.com/3d-models/elven-archer-in-the-forest-41a19d900e5b4c5c96b0efaccbebc197
+* author:	Johannes.Bahret (https://sketchfab.com/Johannes.Bahret)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works

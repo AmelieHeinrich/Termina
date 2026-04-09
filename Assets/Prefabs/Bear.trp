@@ -1,0 +1,47 @@
+{
+    "actors": [
+        {
+            "active": true,
+            "components": [
+                {
+                    "active": true,
+                    "data": {
+                        "position": [
+                            -6.765404224395752,
+                            0.0,
+                            -11.455052375793457
+                        ],
+                        "rotation": [
+                            -0.4999975562095642,
+                            -0.500002384185791,
+                            -0.49999767541885376,
+                            0.500002384185791
+                        ],
+                        "scale": [
+                            1.1528000831604004,
+                            1.152807593345642,
+                            1.1528100967407227
+                        ]
+                    },
+                    "type": "Transform"
+                },
+                {
+                    "active": true,
+                    "data": {
+                        "model": "Assets\\Models\\Bear\\scene.gltf"
+                    },
+                    "type": "Mesh Component"
+                },
+                {
+                    "active": true,
+                    "data": {},
+                    "type": "Bear"
+                }
+            ],
+            "id": "18070439845791190168",
+            "name": "Bear",
+            "parentId": null
+        }
+    ],
+    "version": 1
+}

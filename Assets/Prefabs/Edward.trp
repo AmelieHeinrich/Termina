@@ -1,0 +1,47 @@
+{
+    "actors": [
+        {
+            "active": true,
+            "components": [
+                {
+                    "active": true,
+                    "data": {
+                        "position": [
+                            2.3763718605041504,
+                            0.1404397189617157,
+                            -11.361781120300293
+                        ],
+                        "rotation": [
+                            0.7072301506996155,
+                            1.0786040463561797e-11,
+                            -0.7069833874702454,
+                            -1.0786039596200059e-11
+                        ],
+                        "scale": [
+                            1.0,
+                            1.0,
+                            1.0
+                        ]
+                    },
+                    "type": "Transform"
+                },
+                {
+                    "active": true,
+                    "data": {
+                        "model": "Assets\\Models\\Edward\\scene.gltf"
+                    },
+                    "type": "Mesh Component"
+                },
+                {
+                    "active": true,
+                    "data": {},
+                    "type": "Edward"
+                }
+            ],
+            "id": "8738840880182468645",
+            "name": "Edward",
+            "parentId": null
+        }
+    ],
+    "version": 1
+}

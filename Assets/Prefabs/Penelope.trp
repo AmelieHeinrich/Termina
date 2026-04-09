@@ -1,0 +1,47 @@
+{
+    "actors": [
+        {
+            "active": true,
+            "components": [
+                {
+                    "active": true,
+                    "data": {
+                        "position": [
+                            1.274301290512085,
+                            0.9470087289810181,
+                            -14.795475959777832
+                        ],
+                        "rotation": [
+                            0.7040147185325623,
+                            -6.180839307035058e-08,
+                            -0.7101854085922241,
+                            -6.180838596492322e-08
+                        ],
+                        "scale": [
+                            0.9999450445175171,
+                            1.0,
+                            0.9999450445175171
+                        ]
+                    },
+                    "type": "Transform"
+                },
+                {
+                    "active": true,
+                    "data": {
+                        "model": "Assets\\Models\\Penelope\\scene.gltf"
+                    },
+                    "type": "Mesh Component"
+                },
+                {
+                    "active": true,
+                    "data": {},
+                    "type": "Penelope"
+                }
+            ],
+            "id": "806624820950000205",
+            "name": "Penelope",
+            "parentId": null
+        }
+    ],
+    "version": 1
+}

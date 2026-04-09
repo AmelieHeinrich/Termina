@@ -1,0 +1,8 @@
+Model Information:
+* title:	Medieval Knight
+* source:	https://sketchfab.com/3d-models/medieval-knight-06e07c9bcc204650b6cbe52886054dc2
+* author:	illustros (https://sketchfab.com/illustros)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works

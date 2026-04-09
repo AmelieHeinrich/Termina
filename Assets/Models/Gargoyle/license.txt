@@ -1,0 +1,8 @@
+Model Information:
+* title:	Blood Demon 1
+* source:	https://sketchfab.com/3d-models/blood-demon-1-0333adb0a5b04ff9ad786404a93f0cae
+* author:	BrysonJones (https://sketchfab.com/BrysonJones)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works

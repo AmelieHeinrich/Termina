@@ -1,0 +1,47 @@
+{
+    "actors": [
+        {
+            "active": true,
+            "components": [
+                {
+                    "active": true,
+                    "data": {
+                        "position": [
+                            3.41910982131958,
+                            0.969934344291687,
+                            -6.904926776885986
+                        ],
+                        "rotation": [
+                            0.3173046410083771,
+                            2.7582718331586875e-08,
+                            -0.948323667049408,
+                            -2.7582718331586875e-08
+                        ],
+                        "scale": [
+                            1.0000030994415283,
+                            1.0,
+                            1.0000030994415283
+                        ]
+                    },
+                    "type": "Transform"
+                },
+                {
+                    "active": true,
+                    "data": {
+                        "model": "Assets\\Models\\Brutus\\scene.gltf"
+                    },
+                    "type": "Mesh Component"
+                },
+                {
+                    "active": true,
+                    "data": {},
+                    "type": "Brutus"
+                }
+            ],
+            "id": "10605765018557355966",
+            "name": "Brutus",
+            "parentId": null
+        }
+    ],
+    "version": 1
+}

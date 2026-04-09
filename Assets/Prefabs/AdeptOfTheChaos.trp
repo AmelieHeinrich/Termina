@@ -1,0 +1,47 @@
+{
+    "actors": [
+        {
+            "active": true,
+            "components": [
+                {
+                    "active": true,
+                    "data": {
+                        "position": [
+                            0.0,
+                            1.3895219564437866,
+                            -11.809989929199219
+                        ],
+                        "rotation": [
+                            0.7071067690849304,
+                            0.0,
+                            0.7071067690849304,
+                            0.0
+                        ],
+                        "scale": [
+                            2.0,
+                            2.0,
+                            2.0
+                        ]
+                    },
+                    "type": "Transform"
+                },
+                {
+                    "active": true,
+                    "data": {},
+                    "type": "AdeptOfTheChaos"
+                },
+                {
+                    "active": true,
+                    "data": {
+                        "model": "Assets\\Models\\Chaos\\scene.gltf"
+                    },
+                    "type": "Mesh Component"
+                }
+            ],
+            "id": "16534151372086531803",
+            "name": "AdeptOfChaos",
+            "parentId": null
+        }
+    ],
+    "version": 1
+}

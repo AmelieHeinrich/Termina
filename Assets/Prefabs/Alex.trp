@@ -1,0 +1,47 @@
+{
+    "actors": [
+        {
+            "active": true,
+            "components": [
+                {
+                    "active": true,
+                    "data": {
+                        "position": [
+                            1.1141268014907837,
+                            1.0389231443405151,
+                            -8.33548641204834
+                        ],
+                        "rotation": [
+                            0.70710688829422,
+                            0.0,
+                            -0.7071066498756409,
+                            0.0
+                        ],
+                        "scale": [
+                            0.9999700784683228,
+                            1.0,
+                            0.9999700784683228
+                        ]
+                    },
+                    "type": "Transform"
+                },
+                {
+                    "active": true,
+                    "data": {
+                        "model": "Assets\\Models\\Alex\\scene.gltf"
+                    },
+                    "type": "Mesh Component"
+                },
+                {
+                    "active": true,
+                    "data": {},
+                    "type": "Alex"
+                }
+            ],
+            "id": "15809330241375284730",
+            "name": "Alex",
+            "parentId": null
+        }
+    ],
+    "version": 1
+}

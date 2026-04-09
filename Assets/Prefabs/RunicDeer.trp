@@ -1,0 +1,47 @@
+{
+    "actors": [
+        {
+            "active": true,
+            "components": [
+                {
+                    "active": true,
+                    "data": {
+                        "position": [
+                            0.0,
+                            -0.1251545548439026,
+                            -13.998479843139648
+                        ],
+                        "rotation": [
+                            0.8608696460723877,
+                            0.0,
+                            -0.5088257789611816,
+                            0.0
+                        ],
+                        "scale": [
+                            25.000041961669922,
+                            25.0,
+                            25.000041961669922
+                        ]
+                    },
+                    "type": "Transform"
+                },
+                {
+                    "active": true,
+                    "data": {
+                        "model": "Assets\\Models\\Deer\\scene.gltf"
+                    },
+                    "type": "Mesh Component"
+                },
+                {
+                    "active": true,
+                    "data": {},
+                    "type": "RunicDear"
+                }
+            ],
+            "id": "3699567169274516660",
+            "name": "Deer",
+            "parentId": null
+        }
+    ],
+    "version": 1
+}

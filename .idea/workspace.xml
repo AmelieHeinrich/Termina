@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BackendCodeEditorMiscSettings">
+    <option name="/Default/Environment/UserInterface/HierarchyView/ViewStyle/@EntryValue" value="SuperTypes" type="string" />
+    <option name="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexedValue" value="true" type="bool" />
+    <option name="/Default/Housekeeping/GlobalSettingsUpgraded/IsUpgraded/@EntryValue" value="true" type="bool" />
+    <option name="/Default/Housekeeping/LiveTemplatesHousekeeping/HotspotSessionHintIsShown/@EntryValue" value="true" type="bool" />
+    <option name="/Default/RiderDebugger/RiderRestoreDecompile/RestoreDecompileSetting/@EntryValue" value="false" type="bool" />
+  </component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
+  <component name="CMakeProjectFlavorService">
+    <option name="flavorId" value="CMakePlainProjectFlavor" />
+  </component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="EndlessRogue" targetName="EndlessRogue" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1f6597e6-b263-4ce3-a757-0015d1b86ee5" name="Changes" comment="delete useless logs">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_02_04_2026_09_25__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sources/GameAssembly/Main/Game.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Sources/GameAssembly/Main/Game.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sources/GameAssembly/Main/Game.h" beforeDir="false" afterPath="$PROJECT_DIR$/Sources/GameAssembly/Main/Game.h" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="2456" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="ImGuiMasterization" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;0ri0546&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/AmadeoPonceGTech/EndlessRogue-Termina-.git&quot;,
+    &quot;accountId&quot;: &quot;3506d733-1a4a-4f6d-83a8-d5617e31580c&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Sources/GameAssembly/Entities/Characters/Character.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Sources/GameAssembly/Entities/Characters/Character.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Sources/GameAssembly/Entities/Entity.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Sources/GameAssembly/GameAssembly.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Sources/GameAssembly/Main/Gameplay/Gameplay.cpp" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="loG5Zv0R" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2025" />
+    <option name="minorVersion" value="3.3" />
+    <option name="productBranch" value="Classic" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="3B9recwax946HPCmu8iIaT2LxVO" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectStatusUIService">{
+  &quot;uiKindId&quot;: &quot;Widget&quot;
+}</component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.RadMigrateCodeStyle&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.west.config.association.type.startup.service&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;branch__event__architecture&quot;,
+    &quot;git.auto.fetch.suggestion.counter&quot;: &quot;2&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;org.rust.first.attach.projects&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\repos\EndlessRogue-Termina-\Sources\GameAssembly\Entities\Enemies\Close DPS" />
+      <recent name="D:\repos\EndlessRogue-Termina-\Sources\GameAssembly\Entities\Enemies\Support" />
+      <recent name="D:\repos\EndlessRogue-Termina-\Sources\GameAssembly\Entities\Enemies\Tank" />
+      <recent name="C:\Users\momop\source\repos\EndlessRogue-Termina-\Sources\GameAssembly\Entities\Characters\Support" />
+      <recent name="C:\Users\momop\source\repos\EndlessRogue-Termina-\Sources\GameAssembly\Entities\Characters" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="EndlessRogue" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EndlessRogue" TARGET_NAME="EndlessRogue" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="EndlessRogue" RUN_TARGET_NAME="EndlessRogue">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1f6597e6-b263-4ce3-a757-0015d1b86ee5" name="Changes" comment="" />
+      <created>1773912224860</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1773912224860</updated>
+      <workItem from="1773912226663" duration="476000" />
+      <workItem from="1773992385118" duration="847000" />
+      <workItem from="1774288965862" duration="10000" />
+      <workItem from="1774816683017" duration="7092000" />
+      <workItem from="1775026299111" duration="2520000" />
+      <workItem from="1775112090624" duration="163000" />
+      <workItem from="1775198857203" duration="2479000" />
+      <workItem from="1775716999928" duration="1817000" />
+      <workItem from="1775718852550" duration="5977000" />
+      <workItem from="1775754506452" duration="143000" />
+    </task>
+    <task id="LOCAL-00015" summary="fix and added adept of the chaos">
+      <option name="closed" value="true" />
+      <created>1774789844346</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1774789844346</updated>
+    </task>
+    <task id="LOCAL-00016" summary="fix">
+      <option name="closed" value="true" />
+      <created>1774789853821</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1774789853821</updated>
+    </task>
+    <task id="LOCAL-00017" summary="added Ghost">
+      <option name="closed" value="true" />
+      <created>1774790893475</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1774790893475</updated>
+    </task>
+    <task id="LOCAL-00018" summary="added dark knight">
+      <option name="closed" value="true" />
+      <created>1774791867438</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1774791867438</updated>
+    </task>
+    <task id="LOCAL-00019" summary="added skeleton">
+      <option name="closed" value="true" />
+      <created>1774818097562</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1774818097562</updated>
+    </task>
+    <task id="LOCAL-00020" summary="added Kelpie">
+      <option name="closed" value="true" />
+      <created>1774819191569</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1774819191569</updated>
+    </task>
+    <task id="LOCAL-00021" summary="added Dunkleosteus">
+      <option name="closed" value="true" />
+      <created>1774820103235</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1774820103235</updated>
+    </task>
+    <task id="LOCAL-00022" summary="added Mermaid">
+      <option name="closed" value="true" />
+      <created>1774821842940</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1774821842940</updated>
+    </task>
+    <task id="LOCAL-00023" summary="added Eel">
+      <option name="closed" value="true" />
+      <created>1774823349371</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1774823349371</updated>
+    </task>
+    <task id="LOCAL-00024" summary="update hit calcul for enemies">
+      <option name="closed" value="true" />
+      <created>1774854662966</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1774854662966</updated>
+    </task>
+    <task id="LOCAL-00025" summary="added runicDear">
+      <option name="closed" value="true" />
+      <created>1774855419481</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1774855419481</updated>
+    </task>
+    <task id="LOCAL-00026" summary="added red dragon boss">
+      <option name="closed" value="true" />
+      <created>1774856290874</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1774856290874</updated>
+    </task>
+    <task id="LOCAL-00027" summary="added artefact's logic">
+      <option name="closed" value="true" />
+      <created>1774861849385</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1774861849385</updated>
+    </task>
+    <task id="LOCAL-00028" summary="added bear's foot and knight's badge artefatcs">
+      <option name="closed" value="true" />
+      <created>1774862955394</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1774862955394</updated>
+    </task>
+    <task id="LOCAL-00029" summary="added eel's eye artefact">
+      <option name="closed" value="true" />
+      <created>1774863962040</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1774863962040</updated>
+    </task>
+    <task id="LOCAL-00030" summary="added tail artefact">
+      <option name="closed" value="true" />
+      <created>1774864733972</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1774864733972</updated>
+    </task>
+    <task id="LOCAL-00031" summary="added toe bone artefact">
+      <option name="closed" value="true" />
+      <created>1774865204580</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1774865204580</updated>
+    </task>
+    <task id="LOCAL-00032" summary="added wolf fur artefact">
+      <option name="closed" value="true" />
+      <created>1774865371314</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1774865371314</updated>
+    </task>
+    <task id="LOCAL-00033" summary="added malicious eye artefact">
+      <option name="closed" value="true" />
+      <created>1774865832407</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1774865832407</updated>
+    </task>
+    <task id="LOCAL-00034" summary="added bear's salmon and cursed shield artefact">
+      <option name="closed" value="true" />
+      <created>1774866489172</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1774866489172</updated>
+    </task>
+    <task id="LOCAL-00035" summary="fix">
+      <option name="closed" value="true" />
+      <created>1774867880328</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1774867880328</updated>
+    </task>
+    <task id="LOCAL-00036" summary="added inventory">
+      <option name="closed" value="true" />
+      <created>1775028179263</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1775028179263</updated>
+    </task>
+    <task id="LOCAL-00037" summary="added CasperSEncyclopedia artefact">
+      <option name="closed" value="true" />
+      <created>1775028755048</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1775028755048</updated>
+    </task>
+    <task id="LOCAL-00038" summary="merge enemies into gameloop to start StartFight implementation in Game">
+      <option name="closed" value="true" />
+      <created>1775029917536</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1775029917536</updated>
+    </task>
+    <task id="LOCAL-00039" summary="added all descriptions">
+      <option name="closed" value="true" />
+      <created>1775039790015</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1775039790015</updated>
+    </task>
+    <task id="LOCAL-00040" summary="added comment">
+      <option name="closed" value="true" />
+      <created>1775040593715</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1775040593715</updated>
+    </task>
+    <task id="LOCAL-00041" summary="debugging loop">
+      <option name="closed" value="true" />
+      <created>1775113153723</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1775113153723</updated>
+    </task>
+    <task id="LOCAL-00042" summary="Finished UI Display + fixed loop, just need to change loose condition">
+      <option name="closed" value="true" />
+      <created>1775121923899</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1775121923899</updated>
+    </task>
+    <task id="LOCAL-00043" summary="Needs to find which character make the game crash but finished gameloop">
+      <option name="closed" value="true" />
+      <created>1775127625280</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1775127625280</updated>
+    </task>
+    <task id="LOCAL-00044" summary="fix merge main into LogManager">
+      <option name="closed" value="true" />
+      <created>1775202228638</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1775202228638</updated>
+    </task>
+    <task id="LOCAL-00045" summary="added log messages to all Forests enemies">
+      <option name="closed" value="true" />
+      <created>1775209591372</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1775209591372</updated>
+    </task>
+    <task id="LOCAL-00046" summary="added map for character/artefact link">
+      <option name="closed" value="true" />
+      <created>1775210021108</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1775210021108</updated>
+    </task>
+    <task id="LOCAL-00047" summary="fix merge">
+      <option name="closed" value="true" />
+      <created>1775632283948</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1775632283948</updated>
+    </task>
+    <task id="LOCAL-00048" summary="abort saveLoad">
+      <option name="closed" value="true" />
+      <created>1775635908057</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1775635908057</updated>
+    </task>
+    <task id="LOCAL-00049" summary="added all logs">
+      <option name="closed" value="true" />
+      <created>1775637544474</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1775637544474</updated>
+    </task>
+    <task id="LOCAL-00050" summary="delete json">
+      <option name="closed" value="true" />
+      <created>1775637593059</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1775637593059</updated>
+    </task>
+    <task id="LOCAL-00051" summary="added RatTooth artefact">
+      <option name="closed" value="true" />
+      <created>1775637963139</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1775637963139</updated>
+    </task>
+    <task id="LOCAL-00052" summary="added WolfTooth artefact">
+      <option name="closed" value="true" />
+      <created>1775638361614</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1775638361614</updated>
+    </task>
+    <task id="LOCAL-00053" summary="added Great Bear Medal artefact">
+      <option name="closed" value="true" />
+      <created>1775638901582</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1775638901582</updated>
+    </task>
+    <task id="LOCAL-00054" summary="fix returns in CreateArtefact functions">
+      <option name="closed" value="true" />
+      <created>1775638984167</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1775638984167</updated>
+    </task>
+    <task id="LOCAL-00055" summary="update logs">
+      <option name="closed" value="true" />
+      <created>1775639495393</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1775639495393</updated>
+    </task>
+    <task id="LOCAL-00056" summary="merged playerXpSystem into main">
+      <option name="closed" value="true" />
+      <created>1775644462547</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1775644462547</updated>
+    </task>
+    <task id="LOCAL-00057" summary="adjusted title screen + selection screen">
+      <option name="closed" value="true" />
+      <created>1775719429149</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1775719429149</updated>
+    </task>
+    <task id="LOCAL-00058" summary="finished ui correction with printing status effect on characters and enemies">
+      <option name="closed" value="true" />
+      <created>1775722593219</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1775722593219</updated>
+    </task>
+    <task id="LOCAL-00059" summary="draw artefacts info on chara">
+      <option name="closed" value="true" />
+      <created>1775723597899</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1775723597899</updated>
+    </task>
+    <task id="LOCAL-00060" summary="draw artefacts info on chara">
+      <option name="closed" value="true" />
+      <created>1775723621961</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1775723621961</updated>
+    </task>
+    <task id="LOCAL-00061" summary="fix overheal">
+      <option name="closed" value="true" />
+      <created>1775724077876</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1775724077876</updated>
+    </task>
+    <task id="LOCAL-00062" summary="finish start menu 3">
+      <option name="closed" value="true" />
+      <created>1775729167668</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1775729167668</updated>
+    </task>
+    <task id="LOCAL-00063" summary="delete useless logs">
+      <option name="closed" value="true" />
+      <created>1775730034839</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1775730034839</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="Enemies" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="merge enemies into gameloop to start StartFight implementation in Game" />
+    <MESSAGE value="added all descriptions" />
+    <MESSAGE value="added comment" />
+    <MESSAGE value="debugging loop" />
+    <MESSAGE value="Finished UI Display + fixed loop, just need to change loose condition" />
+    <MESSAGE value="Needs to find which character make the game crash but finished gameloop" />
+    <MESSAGE value="fix merge main into LogManager" />
+    <MESSAGE value="added log messages to all Forests enemies" />
+    <MESSAGE value="added map for character/artefact link" />
+    <MESSAGE value="fix merge" />
+    <MESSAGE value="abort saveLoad" />
+    <MESSAGE value="added all logs" />
+    <MESSAGE value="delete json" />
+    <MESSAGE value="added RatTooth artefact" />
+    <MESSAGE value="added WolfTooth artefact" />
+    <MESSAGE value="added Great Bear Medal artefact" />
+    <MESSAGE value="fix returns in CreateArtefact functions" />
+    <MESSAGE value="update logs" />
+    <MESSAGE value="merged playerXpSystem into main" />
+    <MESSAGE value="adjusted title screen + selection screen" />
+    <MESSAGE value="finished ui correction with printing status effect on characters and enemies" />
+    <MESSAGE value="draw artefacts info on chara" />
+    <MESSAGE value="fix overheal" />
+    <MESSAGE value="finish start menu 3" />
+    <MESSAGE value="delete useless logs" />
+    <option name="LAST_COMMIT_MESSAGE" value="delete useless logs" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Sources/GameAssembly/Entities/Enemies/Boss/RedDragon.cpp</url>
+          <line>3</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

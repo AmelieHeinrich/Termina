@@ -1,0 +1,11 @@
+Model Information:
+* title:	Grizzly Bear
+* source:	https://sketchfab.com/3d-models/grizzly-bear-95baabcbc8634f6dace4376767a6024e
+* author:	freddy1231 (https://sketchfab.com/freddy1231)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Grizzly Bear" (https://sketchfab.com/3d-models/grizzly-bear-95baabcbc8634f6dace4376767a6024e) by freddy1231 (https://sketchfab.com/freddy1231) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

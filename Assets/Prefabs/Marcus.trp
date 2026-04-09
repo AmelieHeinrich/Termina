@@ -1,0 +1,47 @@
+{
+    "actors": [
+        {
+            "active": true,
+            "components": [
+                {
+                    "active": true,
+                    "data": {
+                        "position": [
+                            3.7881827354431152,
+                            0.00018307472055312246,
+                            -13.359403610229492
+                        ],
+                        "rotation": [
+                            0.7072301506996155,
+                            -6.181723932741079e-08,
+                            -0.7069833874702454,
+                            -6.181723932741079e-08
+                        ],
+                        "scale": [
+                            1.0,
+                            1.0,
+                            1.0
+                        ]
+                    },
+                    "type": "Transform"
+                },
+                {
+                    "active": true,
+                    "data": {
+                        "model": "Assets\\Models\\Marcus\\scene.gltf"
+                    },
+                    "type": "Mesh Component"
+                },
+                {
+                    "active": true,
+                    "data": {},
+                    "type": "Marcus"
+                }
+            ],
+            "id": "2843637203294047259",
+            "name": "Marcus",
+            "parentId": null
+        }
+    ],
+    "version": 1
+}

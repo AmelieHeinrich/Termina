@@ -1,0 +1,47 @@
+{
+    "actors": [
+        {
+            "active": true,
+            "components": [
+                {
+                    "active": true,
+                    "data": {
+                        "position": [
+                            -2.457468032836914,
+                            1.6800596714019775,
+                            -13.578604698181152
+                        ],
+                        "rotation": [
+                            1.0,
+                            0.0,
+                            0.0,
+                            0.0
+                        ],
+                        "scale": [
+                            10.0,
+                            10.0,
+                            10.0
+                        ]
+                    },
+                    "type": "Transform"
+                },
+                {
+                    "active": true,
+                    "data": {
+                        "model": "Assets\\Models\\Mermaid\\scene.gltf"
+                    },
+                    "type": "Mesh Component"
+                },
+                {
+                    "active": true,
+                    "data": {},
+                    "type": "Mermaid"
+                }
+            ],
+            "id": "7674021155600266738",
+            "name": "Mermaid",
+            "parentId": null
+        }
+    ],
+    "version": 1
+}

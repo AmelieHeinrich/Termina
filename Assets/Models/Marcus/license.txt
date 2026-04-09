@@ -1,0 +1,11 @@
+Model Information:
+* title:	Monk Character
+* source:	https://sketchfab.com/3d-models/monk-character-8cacbd85a5b84f59a8c9000d7a6dcca2
+* author:	Inuciian (https://sketchfab.com/Inuciian)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Monk Character" (https://sketchfab.com/3d-models/monk-character-8cacbd85a5b84f59a8c9000d7a6dcca2) by Inuciian (https://sketchfab.com/Inuciian) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

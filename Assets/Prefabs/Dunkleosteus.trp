@@ -1,0 +1,47 @@
+{
+    "actors": [
+        {
+            "active": true,
+            "components": [
+                {
+                    "active": true,
+                    "data": {
+                        "position": [
+                            0.0,
+                            1.0276057720184326,
+                            -9.867722511291504
+                        ],
+                        "rotation": [
+                            0.7071067690849304,
+                            0.0,
+                            -0.7071067690849304,
+                            0.0
+                        ],
+                        "scale": [
+                            3.0,
+                            3.0,
+                            3.0
+                        ]
+                    },
+                    "type": "Transform"
+                },
+                {
+                    "active": true,
+                    "data": {
+                        "model": "Assets\\Models\\Dunkleo\\scene.gltf"
+                    },
+                    "type": "Mesh Component"
+                },
+                {
+                    "active": true,
+                    "data": {},
+                    "type": "Dunkleosteus"
+                }
+            ],
+            "id": "14612844195196355935",
+            "name": "Dunkleosteus",
+            "parentId": null
+        }
+    ],
+    "version": 1
+}

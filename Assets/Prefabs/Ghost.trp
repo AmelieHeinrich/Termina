@@ -1,0 +1,47 @@
+{
+    "actors": [
+        {
+            "active": true,
+            "components": [
+                {
+                    "active": true,
+                    "data": {
+                        "position": [
+                            0.0,
+                            1.7650551795959473,
+                            -9.183368682861328
+                        ],
+                        "rotation": [
+                            1.0,
+                            0.0,
+                            0.0,
+                            0.0
+                        ],
+                        "scale": [
+                            0.75,
+                            0.75,
+                            0.75
+                        ]
+                    },
+                    "type": "Transform"
+                },
+                {
+                    "active": true,
+                    "data": {},
+                    "type": "Ghost"
+                },
+                {
+                    "active": true,
+                    "data": {
+                        "model": "Assets\\Models\\Ghost\\scene.gltf"
+                    },
+                    "type": "Mesh Component"
+                }
+            ],
+            "id": "7114820267868068587",
+            "name": "Ghost",
+            "parentId": null
+        }
+    ],
+    "version": 1
+}

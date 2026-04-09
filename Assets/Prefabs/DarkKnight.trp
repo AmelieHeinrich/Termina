@@ -1,0 +1,47 @@
+{
+    "actors": [
+        {
+            "active": true,
+            "components": [
+                {
+                    "active": true,
+                    "data": {
+                        "position": [
+                            5.324482440948486,
+                            1.4550037384033203,
+                            -9.809998512268066
+                        ],
+                        "rotation": [
+                            0.70710688829422,
+                            0.0,
+                            0.7071066498756409,
+                            0.0
+                        ],
+                        "scale": [
+                            1.499980092048645,
+                            1.5,
+                            1.499980092048645
+                        ]
+                    },
+                    "type": "Transform"
+                },
+                {
+                    "active": true,
+                    "data": {},
+                    "type": "DarkKnight"
+                },
+                {
+                    "active": true,
+                    "data": {
+                        "model": "Assets\\Models\\DarkKnight\\scene.gltf"
+                    },
+                    "type": "Mesh Component"
+                }
+            ],
+            "id": "6792678290669163516",
+            "name": "DarkKnight",
+            "parentId": null
+        }
+    ],
+    "version": 1
+}

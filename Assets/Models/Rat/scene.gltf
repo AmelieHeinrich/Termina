@@ -1,0 +1,457 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 498,
+      "max": [
+        2.844778060913086,
+        1.168723225593567,
+        1.3552236557006836
+      ],
+      "min": [
+        -3.041553020477295,
+        -1.168723225593567,
+        -1.2514479160308838
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 5976,
+      "componentType": 5126,
+      "count": 498,
+      "max": [
+        0.9746789336204529,
+        0.9987611174583435,
+        0.9980794191360474
+      ],
+      "min": [
+        -0.938209593296051,
+        -0.9987611174583435,
+        -0.9992860555648804
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 498,
+      "max": [
+        1.2062737941741943,
+        1.415822982788086
+      ],
+      "min": [
+        0.12254130095243454,
+        -0.058247506618499756
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 2532,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 11952,
+      "componentType": 5126,
+      "count": 64,
+      "max": [
+        0.3069823980331421,
+        2.145386219024658,
+        8.041092872619629
+      ],
+      "min": [
+        -4.921151161193848,
+        -0.03130173683166504,
+        -0.14688026905059814
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 12720,
+      "componentType": 5126,
+      "count": 64,
+      "max": [
+        1.6671353364472452e-07,
+        0.04951895773410797,
+        0.6069075465202332
+      ],
+      "min": [
+        -0.7932283878326416,
+        1.0644414061289353e-07,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 3984,
+      "componentType": 5126,
+      "count": 64,
+      "max": [
+        0.9872786998748779,
+        0.7179182171821594
+      ],
+      "min": [
+        0.8727428317070007,
+        0.603382408618927
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 10128,
+      "componentType": 5125,
+      "count": 180,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 13488,
+      "componentType": 5126,
+      "count": 69,
+      "max": [
+        -3.041553020477295,
+        0.06535883992910385,
+        -1.139667272567749
+      ],
+      "min": [
+        -4.226902008056641,
+        -1.7920382022857666,
+        -1.2514479160308838
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 14316,
+      "componentType": 5126,
+      "count": 69,
+      "max": [
+        0.9715626239776611,
+        0.8797791004180908,
+        0.9579795598983765
+      ],
+      "min": [
+        -0.9611164927482605,
+        -0.8855111002922058,
+        -0.9803040027618408
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 4496,
+      "componentType": 5126,
+      "count": 69,
+      "max": [
+        1.2062737941741943,
+        0.4031646251678467
+      ],
+      "min": [
+        0.47857481241226196,
+        -0.058247506618499756
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 10848,
+      "componentType": 5125,
+      "count": 318,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "flogram (https://sketchfab.com/flogram)",
+      "license": "SKETCHFAB Standard (https://sketchfab.com/licenses)",
+      "source": "https://sketchfab.com/3d-models/low-poly-rat-0ff3d1281fc741a68ac6e16cc681e153",
+      "title": "Low-poly rat"
+    },
+    "generator": "Sketchfab-17.1.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 12120,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 5048,
+      "byteOffset": 12120,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 15144,
+      "byteOffset": 17168,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 32312,
+      "uri": "scene.bin"
+    }
+  ],
+  "extensionsRequired": [
+    "KHR_materials_pbrSpecularGlossiness"
+  ],
+  "extensionsUsed": [
+    "KHR_materials_pbrSpecularGlossiness"
+  ],
+  "images": [
+    {
+      "uri": "textures/RatMaterial_diffuse.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "extensions": {
+        "KHR_materials_pbrSpecularGlossiness": {
+          "diffuseFactor": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "diffuseTexture": {
+            "index": 0
+          },
+          "glossinessFactor": 0.0,
+          "specularFactor": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      },
+      "name": "RatMaterial"
+    }
+  ],
+  "meshes": [
+    {
+      "name": "rat_RatMaterial_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "eyes_RatMaterial_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 5,
+            "POSITION": 4,
+            "TEXCOORD_0": 6
+          },
+          "indices": 7,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "tail_RatMaterial_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 9,
+            "POSITION": 8,
+            "TEXCOORD_0": 10
+          },
+          "indices": 11,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.009999999776482582,
+        0.0,
+        0.0,
+        -0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "rat.fbx"
+    },
+    {
+      "children": [
+        3,
+        5,
+        7
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4
+      ],
+      "matrix": [
+        100.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        -1.629206793918314e-05,
+        -99.99999999999868,
+        0.0,
+        0.0,
+        99.99999999999868,
+        -1.629206793918314e-05,
+        0.0,
+        0.0,
+        118.15113067626953,
+        0.0,
+        1.0
+      ],
+      "name": "rat"
+    },
+    {
+      "mesh": 0,
+      "name": "rat_RatMaterial_0"
+    },
+    {
+      "children": [
+        6
+      ],
+      "matrix": [
+        -7.171506077893599,
+        -3.0287488061512904,
+        3.841061364463184,
+        -0.0,
+        3.266762779971693,
+        -8.039175007174919,
+        -0.23978595664728594,
+        -0.0,
+        -3.6407869703244837,
+        -1.2473638975804242,
+        -7.781150824131088,
+        -0.0,
+        226.37913513183594,
+        194.05384826660156,
+        37.552955627441406,
+        1.0
+      ],
+      "name": "eyes"
+    },
+    {
+      "mesh": 1,
+      "name": "eyes_RatMaterial_0"
+    },
+    {
+      "children": [
+        8
+      ],
+      "matrix": [
+        100.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        -1.629206793918314e-05,
+        -99.99999999999868,
+        0.0,
+        0.0,
+        99.99999999999868,
+        -1.629206793918314e-05,
+        0.0,
+        0.0,
+        118.15113067626953,
+        0.0,
+        1.0
+      ],
+      "name": "tail"
+    },
+    {
+      "mesh": 2,
+      "name": "tail_RatMaterial_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    }
+  ]
+}
